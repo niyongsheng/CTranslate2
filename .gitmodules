@@ -4,6 +4,7 @@
 [submodule "third_party/thrust"]
 	path = third_party/thrust
 	url = https://github.com/NVIDIA/cccl.git
+	update = none
 [submodule "third_party/googletest"]
 	path = third_party/googletest
 	url = https://github.com/google/googletest.git
@@ -19,3 +20,4 @@
 [submodule "third_party/cutlass"]
 	path = third_party/cutlass
 	url = https://github.com/NVIDIA/cutlass.git
+	update = none
